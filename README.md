@@ -265,25 +265,6 @@ This results in higher retrieval accuracy and richer contextual understanding.
 
 ---
 
-# 📸 Demo
-
-### Chat Interface
-
-*(Add screenshot here)*
-
----
-
-### Knowledge Graph
-
-*(Add screenshot here)*
-
----
-
-### Document Upload
-
-*(Add screenshot here)*
-
----
 
 # 📈 Future Roadmap
 
