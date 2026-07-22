@@ -1,0 +1,32 @@
+EQUIPMENT INSPECTION REPORT
+
+Report No: INSP-2026-0117
+Inspection Date: 20-Feb-2026
+Plant: Refinery Unit 2
+Equipment Tag: T-3050
+Equipment Description: Atmospheric Storage Tank, Crude Oil, Capacity 5000 KL
+Inspection Type: External Visual + Thickness Survey
+Reference Standard: OISD-STD-129 (Inspection of Storage Tanks)
+Inspector: K. Patel, Certified Inspector (Cert No: NDT-IN-8841)
+
+SCOPE:
+Annual external inspection per OISD-STD-129 covering shell condition, foundation,
+roof structure, and ultrasonic thickness testing (UTM) at 12 grid points on shell courses 1-3.
+
+FINDINGS:
+- Shell Course 1 (bottom): Average thickness 11.2mm against nominal 12.0mm. Corrosion
+  rate calculated at 0.08mm/year based on last 5-year trend. Remaining life estimate: 14 years.
+- Shell Course 2: Average thickness 11.6mm, within acceptable range.
+- Foundation: Minor settlement observed on southeast quadrant, 8mm differential. Within
+  OISD-STD-129 tolerance of 1:500 (current: 1:625). No immediate action required, monitor
+  at next inspection.
+- Roof structure: No visible corrosion or structural deformation. Vents functioning normally.
+- Cathodic protection system: Operating within design parameters, rectifier output 12.4V/8.2A.
+
+RECOMMENDATIONS:
+1. Continue annual UTM monitoring on Shell Course 1 due to corrosion trend.
+2. Re-survey foundation settlement at next inspection cycle (Feb 2027).
+3. No repair action required at this time.
+
+Next Inspection Due: 20-Feb-2027
+Status: SATISFACTORY - CONTINUE SERVICE

@@ -1,0 +1,32 @@
+EQUIPMENT INSPECTION REPORT
+
+Report No: INSP-2026-0203
+Inspection Date: 18-May-2026
+Plant: Refinery Unit 2
+Equipment Tag: C-4102
+Equipment Description: Reciprocating Compressor, Fuel Gas System
+Inspection Type: Condition Monitoring + Vibration Analysis
+Reference Standard: OISD-STD-113 (Classification of Area for Electrical Installations),
+OISD-GDN-142 (Guidelines for Rotating Equipment Maintenance)
+Inspector: S. Iyer, Rotating Equipment Specialist
+
+SCOPE:
+Quarterly condition monitoring covering vibration signature analysis, lube oil analysis,
+valve performance, and electrical area classification compliance check.
+
+FINDINGS:
+- Vibration analysis (Cylinder 1): 3.2 mm/s RMS, within normal band (<4.5 mm/s).
+- Vibration analysis (Cylinder 2): 5.1 mm/s RMS, ELEVATED — early indication of valve
+  wear or piston ring degradation.
+- Lube oil analysis: Viscosity within spec. Trace metal content (Fe: 18ppm) slightly
+  above baseline (12ppm), consistent with early-stage wear.
+- Electrical classification: Junction boxes and conduit seals verified compliant with
+  OISD-STD-113 Zone 1 requirements. No breaches found.
+
+RECOMMENDATIONS:
+1. Schedule valve inspection for Cylinder 2 within 30 days — flagged as PRIORITY.
+2. Repeat oil analysis in 4 weeks to confirm wear trend.
+3. No immediate shutdown required; equipment safe to continue operation under monitoring.
+
+Next Inspection Due: 18-Aug-2026 (or earlier if Cylinder 2 trend worsens)
+Status: MONITOR - ACTION REQUIRED WITHIN 30 DAYS

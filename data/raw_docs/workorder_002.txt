@@ -1,0 +1,34 @@
+MAINTENANCE WORK ORDER
+
+Work Order No: WO-2026-0398
+Date Issued: 02-Apr-2026
+Plant: Refinery Unit 2, Process Area
+Equipment Tag: V-2001A
+Equipment Description: Pressure Relief Valve, Storage Tank Farm Section B
+Priority: Critical
+Assigned To: Instrumentation & Safety Systems Team
+Reference Standard: OISD-STD-106 (Pressure Relief & Disposal System)
+
+PROBLEM DESCRIPTION:
+Routine inspection under OISD-STD-106 compliance schedule found V-2001A set pressure
+drifted to 9.2 bar against design set point of 10.0 bar (8% deviation, outside acceptable
+±3% tolerance). Valve last tested and certified on 05-Oct-2025.
+
+WORK REQUESTED:
+1. Remove V-2001A from service; install blind flange with temporary relief coverage per
+   OISD-STD-106 disposal system contingency procedure.
+2. Bench test valve on calibrated test rig.
+3. Re-set to design pressure of 10.0 bar ±3%.
+4. Inspect seat and disc for erosion or corrosion.
+5. Re-certify and reinstall; update relief valve register.
+
+WORK COMPLETED:
+Date: 05-Apr-2026
+Technician: A. Verma (Employee ID: MT-3387)
+Findings: Spring fatigue detected, consistent with normal service life (valve in service
+4.2 years). Spring replaced (Part No: CROSBY-JOS-E-150). Bench test confirmed set pressure
+at 10.0 bar. Seat/disc inspected — minor pitting, within acceptable limits, no replacement
+required. Valve recertified and reinstalled at 11:15 hrs.
+
+Next scheduled test: 05-Apr-2027 (Annual recertification per OISD-STD-106)
+Status: CLOSED

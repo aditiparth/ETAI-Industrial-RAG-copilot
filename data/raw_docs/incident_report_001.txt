@@ -1,0 +1,35 @@
+INCIDENT / NEAR-MISS REPORT
+
+Report No: INC-2026-0056
+Date of Incident: 03-Jun-2026
+Plant: Refinery Unit 2, Tank Farm Section B
+Equipment Involved: V-2001A, T-3050 (adjacent)
+Severity Classification: Near-Miss (No injury, no loss of containment)
+Reference Standard: OISD-STD-105 (Work Permit System), OISD-GDN-168 (Emergency
+Preparedness Plan)
+
+DESCRIPTION OF EVENT:
+During scheduled maintenance on P-101 (WO-2026-0341 follow-up check), a contractor
+technician attempted to access the pump platform without a valid work permit. Area
+supervisor intercepted the technician before any tool was used on equipment. No
+equipment was touched, no safety systems were bypassed.
+
+ROOT CAUSE ANALYSIS:
+- Immediate cause: Contractor unaware of updated work permit requirement following
+  shift handover.
+- Underlying cause: Shift handover checklist did not explicitly flag active work
+  permits to incoming contractor teams.
+- Systemic gap: Contractor induction training does not sufficiently emphasize
+  permit-to-work verification steps per OISD-STD-105.
+
+CORRECTIVE ACTIONS:
+1. Update shift handover checklist to include explicit active work permit list,
+   visible to all incoming personnel. [Owner: Shift Operations Manager, Due: 15-Jun-2026]
+2. Refresher training on OISD-STD-105 work permit procedures for all contractor
+   personnel. [Owner: HSE Department, Due: 30-Jun-2026]
+3. Install permit status board at platform access points. [Owner: Site Engineering,
+   Due: 15-Jul-2026]
+
+Reported By: J. Menon, Shift Supervisor
+Reviewed By: HSE Manager
+Status: CORRECTIVE ACTIONS IN PROGRESS

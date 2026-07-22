@@ -1,0 +1,37 @@
+MAINTENANCE WORK ORDER
+
+Work Order No: WO-2026-0341
+Date Issued: 12-Mar-2026
+Plant: Refinery Unit 2, Process Area
+Equipment Tag: P-101
+Equipment Description: Centrifugal Feed Pump, Crude Distillation Unit
+Priority: High
+Assigned To: Mechanical Maintenance Team B
+Reference Standard: OISD-STD-105 (Work Permit System)
+
+PROBLEM DESCRIPTION:
+Vibration levels on P-101 exceeded threshold during routine monitoring on 10-Mar-2026.
+Recorded vibration: 7.8 mm/s RMS against alarm limit of 4.5 mm/s RMS. Bearing housing
+temperature reading elevated at 78°C, 15°C above baseline. Operator log noted unusual
+noise from pump coupling during shift change.
+
+WORK REQUESTED:
+1. Isolate P-101 per OISD-STD-105 work permit procedure before any intervention.
+2. Inspect drive-end and non-drive-end bearings for wear or lubrication failure.
+3. Check coupling alignment using laser alignment tool; tolerance 0.05mm.
+4. Replace bearing if wear exceeds manufacturer tolerance (ref. OEM manual section 4.2).
+5. Verify vibration levels post-repair are within 4.5 mm/s RMS limit before returning to service.
+
+SAFETY PRECAUTIONS:
+Work permit to be obtained from Shift In-Charge as per OISD-STD-105. Lockout-tagout (LOTO)
+mandatory before opening pump casing. PPE: safety glasses, gloves, steel-toe boots.
+
+WORK COMPLETED:
+Date: 14-Mar-2026
+Technician: R. Sharma (Employee ID: MT-4521)
+Findings: Drive-end bearing showed spalling damage, consistent with lubrication starvation.
+Bearing replaced (Part No: SKF-6309-2RS). Coupling realigned to 0.03mm tolerance.
+Post-repair vibration: 2.1 mm/s RMS. Equipment returned to service at 16:40 hrs.
+
+Next scheduled inspection: 14-Jun-2026 (Quarterly PM cycle)
+Status: CLOSED
